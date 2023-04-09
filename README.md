@@ -1,3 +1,9 @@
+## Demo
+
+
+https://user-images.githubusercontent.com/76749862/230798956-33255bf2-434d-474c-93c2-56ba93f1e374.mov
+
+
 ## About
 
 T3am was commissioned by Associated Engineering (AE) to construct a Master Calendar for their company to keep better track of their company calendar. AE previously distributed a calendar with key dates across the company in PDF format, which prevented dynamic changes, and led to errors and misunderstandings throughout the organization. This web-based application features a calendar which can be viewed and edited in real-time.
